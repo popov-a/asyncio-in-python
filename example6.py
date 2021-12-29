@@ -23,3 +23,5 @@ asyncio.run(main())
 # Запуск `blocking_io()`: 09:33:04
 # Функция `blocking_io()` завершена: 09:33:05
 # Завершение цикла событий: 09:33:05
+
+# to_thread is only available in python 3.9+
